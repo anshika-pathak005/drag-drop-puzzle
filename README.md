@@ -30,6 +30,7 @@ I wrote the code myself, step by step, without directly copying — mainly to le
 ├── style.css    # Styling for the board and puzzle pieces
 ├── index.js     # JavaScript logic for drag-and-drop and move counter
 └── images/      # Puzzle images (1.jpg to 25.jpg + blank.jpg)
+└── README.md
 
 ```
 
@@ -41,7 +42,8 @@ I wrote the code myself, step by step, without directly copying — mainly to le
 4. Drag and drop pieces to complete the puzzle — see how many moves it takes!  
 
 ## 📸 Screenshot
-
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/c195930d-c9cf-4fee-a0aa-c3db378ca37d" />
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/5df5acc7-d7d7-42af-b053-70db9d13113a" />
 
 ## 🧠 What I Learned
 
