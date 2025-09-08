@@ -1,3 +1,13 @@
+//check for desktop
+function isMobile() {
+    return /Mobi|Android/i.test(navigator.userAgent) || window.innerWidth < 1024;
+}
+if (isMobile()) {
+    document.body.innerHTML = "<h2>Sorry, this site works only on laptop/desktop.</h2>";
+} else {
+    console.log("Desktop detected, running site...");
+}
+
 var row = 5;
 var columns = 5;
 
@@ -93,3 +103,4 @@ function dragEnd(){
     turns += 1;
     document.getElementById("turns").innerText = turns;
 }
+
