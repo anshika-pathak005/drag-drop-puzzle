@@ -1,8 +1,8 @@
 # 🧩 Puzzle Game
 
 A drag-and-drop puzzle game built using HTML, CSS, and JavaScript.
-
 This project was created just for fun and learning, to explore DOM manipulation, event handling, and game logic using JavaScript.
+### 🔗 [Live Demo](https://68cd042416564c5524bd9079--vocal-dusk-f52161.netlify.app/)
 
 ## 🔍 Overview
 
@@ -25,13 +25,11 @@ I wrote the code myself, step by step, without directly copying — mainly to le
 ## 📂 Project Structure
 
 ```
-
 ├── index.html   # Game structure
 ├── style.css    # Styling for the board and puzzle pieces
 ├── index.js     # JavaScript logic for drag-and-drop and move counter
 └── images/      # Puzzle images (1.jpg to 25.jpg + blank.jpg)
 └── README.md
-
 ```
 
 ## 🚀 Installation / Usage
